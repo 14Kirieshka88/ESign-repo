@@ -1,0 +1,29 @@
+{
+  "name": "ESign Repo",
+  "identifier": "com.esign.repo",
+  "subtitle": "Repo To Download ESign",
+  "iconURL": "lib.png",
+  "website": "",
+  "sourceURL": "",
+  "tintColor": "8AB5E0",
+  "featuredApps": [
+    "p3.xyz.yyyue.esign"
+  ],
+
+  "apps": [
+    {
+      "name": "ESign",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "developerName": "Esign Dev",
+      "version": "5.0.2",
+      "versionDate": "2025-08-09",
+      "downloadURL": "esign.ipa",
+      "localizedDescription": "ESign app",
+      "iconURL": "icon.png",
+      "tintColor": "8AB5E0",
+      "size": 2097152,
+      "screenshotURLs": [
+        "screenshot1.png"
+      ]
+    }}
+    
