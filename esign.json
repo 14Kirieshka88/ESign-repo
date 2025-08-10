@@ -2,9 +2,9 @@
   "name": "ESign Repo",
   "identifier": "com.esign.repo",
   "subtitle": "Repo To Download ESign",
-  "iconURL": "lib.png",
-  "website": "",
-  "sourceURL": "",
+  "iconURL": "https://14kirieshka88.github.io/ESign-repo/lib.png",
+  "website": "https://14kirieshka88.github.io/ESign-repo/",
+  "sourceURL": "https://14kirieshka88.github.io/ESign-repo/",
   "tintColor": "8AB5E0",
   "featuredApps": [
     "p3.xyz.yyyue.esign"
@@ -17,9 +17,9 @@
       "developerName": "Esign Dev",
       "version": "5.0.2",
       "versionDate": "2025-08-09",
-      "downloadURL": "esign.ipa",
+      "downloadURL": "https://14kirieshka88.github.io/ESign-repo/esign.ipa",
       "localizedDescription": "ESign app",
-      "iconURL": "icon.png",
+      "iconURL": "https://14kirieshka88.github.io/ESign-repo/icon.png",
       "tintColor": "8AB5E0",
       "size": 2097152,
       "screenshotURLs": [
@@ -29,3 +29,4 @@
     ]
 }
     
+
